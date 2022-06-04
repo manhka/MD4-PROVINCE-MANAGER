@@ -1,5 +1,6 @@
 package com.codegym.cms.formatter;
 
+import com.codegym.cms.model.Customer;
 import com.codegym.cms.model.Province;
 import com.codegym.cms.service.province.IProvinceService;
 import org.springframework.beans.factory.annotation.Autowired;
